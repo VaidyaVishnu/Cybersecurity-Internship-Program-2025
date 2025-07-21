@@ -1,0 +1,4 @@
+﻿Timestamp,Event,IP Address
+2025-01-01T14:30:00Z,Initial Compromise,192.168.1.100
+2025-01-01T14:45:00Z,Lateral Movement Detected,10.0.0.15
+2025-01-01T15:20:00Z,Data Exfiltration Attempt,45.33.12.8
